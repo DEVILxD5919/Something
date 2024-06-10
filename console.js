@@ -1,1 +1,1 @@
-console.log("newtext")
+const pair = "badgeextra"
